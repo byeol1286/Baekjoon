@@ -1,7 +1,7 @@
 package q11720;
 
 import java.util.Scanner;
-//가장 기본적인 풀이 주의! 두개를 따로 입력받을 필요 없음
+//가장 기본적인 풀이
 public class Main {
 
     public static void main(String[] args) {
